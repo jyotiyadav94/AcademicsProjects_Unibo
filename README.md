@@ -110,4 +110,4 @@ This README provides an overview of the various projects I completed during my u
 
 ---
 
-Feel free to explore the repositories for more detailed information on each project. If you have any questions or need further information, please contact me at [your email address].
+Feel free to explore the repositories for more detailed information on each project. If you have any questions or need further information, please contact me at [jojoyadav255@gmail.com].
